@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    color: #00ffcc;
+    background-color: white;
+}
+
+h3 {
+    color: blue;
+    font-family: 'Aladin';
+    font-size: 25px;
+}
+
+body {
+    background-image: linear-gradient(to bottom right, #ffb3b3, #ffe6e6);
+}
+
+.about {
+    background-image: linear-gradient(to bottom right, lime, green);
+    font-family: 'Annie Use Your Telescope';
+    font-size: 20px;
+
+}
+
+.years {
+    background-image: linear-gradient(to bottom right, silver, #00ffcc);
+    font-family: 'Annie Use Your Telescope';
+    font-size: 20px;
+
+}
+
+.first {
+    width: 145px;
+    height: 150px;
+    padding: 25px;
+    border: 4px dashed violet;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+ 
+}
+
+.second {
+    width: 114px;
+    height: 115px;
+    padding: 15px;
+    border: 4px solid lime;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.ten {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 4px dotted lime;
+
+}
